@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="184 6 108 108"><title>SardineMesh mesh-tail favicon proposal</title><rect x="186" y="8" width="104" height="104" rx="17" fill="#F4F7F4" stroke="#0B1F26" stroke-width="3" /><path d="M205 60 L260 21 L248 60 L260 99Z" fill="none" stroke="#59C8B5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" />
+    <line x1="205" y1="60" x2="248" y2="60" stroke="#59C8B5" stroke-width="8" />
+    <circle cx="248" cy="60" r="10" fill="#FF7B74" />
+    <circle cx="260" cy="21" r="10" fill="#7D8CFF" />
+    <circle cx="260" cy="99" r="10" fill="#59C8B5" />
+    </svg>
